@@ -1,1 +1,1 @@
-print("We Want Peace")
+print("We Want Peace \n"*100)
